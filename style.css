@@ -1,0 +1,15 @@
+body {
+color: #4D4D4E;
+font-family: "norwester";
+}
+
+/* fonts */
+@font-face {
+  font-family: 'VerbCondExtralight';
+  src: url(../fonts/VerbCondExtralight.eot);
+  src: url(../fonts/VerbCondExtralight.eot?#iefix) format("embedded-opentype"), url(../fonts/VerbCondExtralight.woff) format("woff"), url(../fonts/VerbCondExtralight.ttf) format("truetype"); }
+
+@font-face {
+  font-family: 'norwester';
+  src: url(fonts/norwester.eot);
+}
