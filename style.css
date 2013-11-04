@@ -24,5 +24,6 @@ text-transform: uppercase;
 @font-face {
   font-family: 'norwester';
   src: url(norwester.eot);
-}
+  src: url(norwester.eot?#iefix) format("embedded-opentype"), url(norwester.woff) format("woff"), url(norwester.ttf) format("truetype"); }
+
 /*test comment*/
